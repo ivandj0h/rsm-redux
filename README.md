@@ -10,7 +10,7 @@ based on https://redux.js.org/ Redux is a predictable state container for JavaSc
 To getting started with this application, now you can clone the repo by using this command and you can play around within it
 
 ```bash
-https://github.com/ivandi1980/Simple-Queue-Dumptruck-Apps.git
+https://github.com/ivandi1980/rsm-redux.git
 ```
 
 ## Installation
